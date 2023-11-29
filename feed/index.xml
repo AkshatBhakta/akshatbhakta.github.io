@@ -12,7 +12,7 @@
 	<atom:link href="https://akshatbhakta.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://akshatbhakta.github.io/</link>
 	<description></description>
-	<lastBuildDate>Wed, 29 Nov 2023 02:37:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Nov 2023 04:51:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
-		<title>Hello world!</title>
+		<title>About Me</title>
 		<link>https://akshatbhakta.github.io/hello-world/</link>
 					<comments>https://akshatbhakta.github.io/hello-world/#comments</comments>
 		
@@ -29,9 +29,35 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://akshatbhakta.github.io/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[I am a Management Information Systems Major with a focused minor in Cybersecurity at Texas A&#38;M University in College Station, TX. Originally from Deer Park, TX, I am now working to complete my undergraduate degree with an expected graduation date of December 2024. Currently, I am working to further my technical skills through the completion...]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>I am a Management Information Systems Major with a focused minor in Cybersecurity at Texas A&amp;M University in College Station, TX. Originally from Deer Park, TX, I am now working to complete my undergraduate degree with an expected graduation date of December 2024. </p>
+
+
+
+<p>Currently, I am working to further my technical skills through the completion of various projects and studies for certification in CompTIA&#8217;s  Security+ and Network+. Feel free to check out my projects page to learn more! In the meantime, here is a list of tools I have found myself working with recently:</p>
+
+
+
+<ul>
+<li>Linux</li>
+
+
+
+<li>HTML/CSS</li>
+
+
+
+<li>Amazon Web Services</li>
+
+
+
+<li>Microsoft Office</li>
+
+
+
+<li>Wireshark</li>
+</ul>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://akshatbhakta.github.io/hello-world/feed/</wfw:commentRss>
